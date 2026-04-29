@@ -21,8 +21,10 @@ TakaslaGo, kullanıcıların eşyalarını güvenli ve hızlı bir şekilde taka
 ### Ana Sayfa
 ![TakaslaGo Ana Sayfa](ana-sayfa.png)
 
-### Kullanıcı Paneli ve İlanlar
+### Kullanıcı Paneli 
 ![Panelim](panelim.png)
+
+### İlanlar
 ![İlanlar](ilanlar.png)
 
 ### Profil Sayfası
