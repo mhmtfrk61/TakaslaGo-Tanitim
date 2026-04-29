@@ -15,3 +15,15 @@ TakaslaGo, kullanıcıların eşyalarını güvenli ve hızlı bir şekilde taka
 
 ---
 > ⚠️ **Not:** Bu depo sadece projenin tanıtımı ve özellikleri hakkında bilgi vermek amacıyla oluşturulmuştur. Güvenlik ve telif hakları nedeniyle kaynak kodları paylaşıma kapalıdır.
+
+## 📸 Proje Ekran Görüntüleri
+
+### Ana Sayfa
+![TakaslaGo Ana Sayfa](ana-sayfa.png)
+
+### Kullanıcı Paneli ve İlanlar
+![Panelim](panelim.png)
+![İlanlar](ilanlar.png)
+
+### Profil Sayfası
+![Profil](profil.png)
